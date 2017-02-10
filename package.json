@@ -1,6 +1,6 @@
 {
   "name": "serialport-omega2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Run your Onion Omega2 robot overlord using javascript.",
   "repository": {
     "type": "git",
