@@ -1,6 +1,6 @@
 {
   "name": "serialport-omega2",
-  "version": "0.0.2",
+  "version": "0.0.9",
   "description": "Run your Onion Omega2 robot overlord using javascript.",
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
   "author": "Steven de Salas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sdesalas/node-serialport-omega2/issues"
+    "url": "https://github.com/sdesalas/npm-serialport-omega2/issues"
   },
   "homepage": "https://github.com/sdesalas/node-serialport-omega2#readme"
 }
